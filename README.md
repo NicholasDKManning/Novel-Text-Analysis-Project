@@ -1,5 +1,7 @@
 📚 Novel Text Analysis Project
+
 📝 Overview
+
 This project analyzes Oliver Twist by Charles Dickens using Python to extract insights such as:
 
 Total word count 📖
